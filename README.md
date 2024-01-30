@@ -17,7 +17,7 @@ It has been created by modifying a given starter HTML code.
 3. The user can also view their search history and click again on a city searched previously. 
 
 ## Link to deployed Application
-[Weather Dashboard Application]()
+[Weather Dashboard Application](https://kjhohura24.github.io/WeatherDashboard/)
 
 ## Final Results
-![Start page]()
+![Start page](https://github.com/Kjhohura24/WeatherDashboard)
