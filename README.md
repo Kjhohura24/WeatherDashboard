@@ -13,11 +13,11 @@ It has been created by modifying a given starter HTML code.
 
 # Scope of the project
 1. The user types the name of a city and clicks on the search button on the home page
-2. This triggers the weather API to show today weather and the next 5 days 
+2. This triggers the weather API to show todays weather and the next 5 days 
 3. The user can also view their search history and click again on a city searched previously. 
 
 ## Link to deployed Application
 [Weather Dashboard Application](https://kjhohura24.github.io/WeatherDashboard/)
 
 ## Final Results
-![Start page](https://github.com/Kjhohura24/WeatherDashboard)
+![Start page](https://github.com/Kjhohura24/WeatherDashboard/blob/main/assets/Screenshot%202024-01-30%20at%2014.56.28.png)
