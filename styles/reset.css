@@ -1,0 +1,60 @@
+.weather-header {
+    background: rgb(5, 23, 60);
+    background: linear-gradient(90deg, rgb(112, 156, 242) 0%, rgba(42, 54, 132, 1) 54%, rgba(32, 9, 77, 1) 100%);
+    margin-bottom: 20px;
+}
+.input-group {
+    display: flex;
+    flex-direction: column;
+    align-items: column;
+}
+
+.input-group-append {
+    width: 100%;
+}
+
+#search-button {
+    background-color: #10253a;
+    color: white;
+    margin-top: 10px;
+    width: 100%;
+    border-radius: 25px;
+}
+
+#search-input {
+    width: 300px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding: 10px;
+    border: 1px solid rgb(5, 23, 60);
+}
+
+.card-deck .card {
+    background-color: #2b619e;
+    color: #fff;
+    border: 1px solid #2b619e;
+    border-radius: 0px;
+}
+
+.wide-card {
+    width: 700px;
+}
+
+.card-deck .card p {
+    font-size: 14px;
+}
+
+/* Today section border only when content is within it */
+#today:not(:empty) {
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.weather-title {
+    display: flex;
+}
+
+.weather-icon {
+    width: 70px;
+    margin-top: -15px;
+}
